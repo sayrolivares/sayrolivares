@@ -1,4 +1,4 @@
-# Enrique Olivares
+# Sayr Olivares
 
 Computer Science student and Tech Lead at a health-tech startup focused on stroke prevention. I bridge healthcare problems and data solutions: SQL-trained, currently deepening Python, NumPy, Pandas, and machine learning for practical, deployable analytics. I also play piano, write about tech & security, and build with a product-first mindset.
 
