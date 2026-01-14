@@ -23,7 +23,7 @@ Learning applied Python for data science and ML: clean EDA, reproducible noteboo
 - **[Economic analysis with Pandas](https://deepnote.com/workspace/sayrolivares-a13b5240-b311-45cf-91a2-bcdcc674c93d/project/Economic-analysis-with-pandas-304804f2-cc51-42c1-84fd-e7eb225772fd?utm_content=304804f2-cc51-42c1-84fd-e7eb225772fd)** — Exploratory Data Analysis (EDA)
 
 ## 📫 Contact
-Email: sayr.wages377@passmail.com (This is a real email, just covered by an alias)  
-LinkedIn: linkedin.com/in/sayrolivares
+- **LinkedIn:** https://www.linkedin.com/in/sayrolivares  
+- **Twitter:** https://x.com/sayrolivares
 ---
 _This profile is a living snapshot — expect it to change as I learn and build._
