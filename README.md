@@ -2,6 +2,8 @@
 
 Computer Science student and Tech Lead at a health-tech startup focused on stroke prevention. I bridge healthcare problems and data solutions: SQL-trained, currently deepening Python, NumPy, Pandas, and machine learning for practical, deployable analytics. I also play piano, write about tech & security, and build with a product-first mindset.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sayrolivares)](https://git.io/streak-stats)
+
 ## 🔭 Current focus
 Learning applied Python for data science and ML: clean EDA, reproducible notebooks, basic modeling, and production-ready pipelines with testing and CI.
 
